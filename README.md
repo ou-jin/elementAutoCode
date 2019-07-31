@@ -1,6 +1,4 @@
-<!DOCTYPE html> <html lang="zh"> <head> <meta charset="utf-8"/> <title>Markdown在线编辑器 - www.MdEditor.com</title> </head> <body><h2 id="h2-elementautocode"><a name="elementAutoCode" class="reference-link"></a><span class="header-link octicon octicon-link"></span>elementAutoCode</h2><h4 id="h4--element-"><a name="基于element表单表格自动生成配置代码以达到快速开发目的的一款脚手架" class="reference-link"></a><span class="header-link octicon octicon-link"></span>基于element表单表格自动生成配置代码以达到快速开发目的的一款脚手架</h4><p><a href="http://www.oujin.fun/webPage/elementTemplate/index.html" title="地址">展示地址</a></p> 
-
- 
+<!DOCTYPE html> <html lang="zh"> <head> <meta charset="utf-8"/> </head> <body><h2 id="h2-elementautocode"><a name="elementAutoCode" class="reference-link"></a><span class="header-link octicon octicon-link"></span>elementAutoCode</h2><h4 id="h4--element-"><a name="基于element表单表格自动生成配置代码以达到快速开发目的的一款脚手架" class="reference-link"></a><span class="header-link octicon octicon-link"></span>基于element表单表格自动生成配置代码以达到快速开发目的的一款脚手架</h4><p><a href="http://www.oujin.fun/webPage/elementTemplate/index.html" title="地址">展示地址</a></p> 
           <p>
             <strong>说明</strong> 基于快速响应开发背景下为节约开发成本，以vue和element为底层支持下开发的一款用于快速生成表单和表格页面的项目脚手架
           </p>
