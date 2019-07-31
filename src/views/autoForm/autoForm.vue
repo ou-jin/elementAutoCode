@@ -227,7 +227,7 @@ export default {
       this.render();
     },
     tableToForm() {
-      this.showStatus = "show";
+      // this.showStatus = "show";
       this.render();
     },
     updataNode(x) {
